@@ -1,0 +1,99 @@
+A,1,Mixed-modulated linear frequency modulated radar-communications.pdf
+A,10,On Time Compression Overlap-Add Technique in Linear Frequency Modulation Pulse Compression Radar Systems Design and Performance Evaluation.pdf
+A,11,Performance of chirp spread spectrum in wireless communication systems.pdf
+A,12,Study of chirp spread spectrum communication system in low frequency atmospheric noise.pdf
+A,13,Waveform design for radar-embedded communications exploiting spread spectrum technology.pdf
+A,14,A Spread-Spectrum Concept Combining Chirp Modulation and Pseudonoise Coding.pdf
+A,15,Waveform design for radar-embedded communications.pdf
+A,16,Intrapulse Radar-Embedded Communications.pdf
+A,17,Dual-function radar-communications using phase-rotational invariance.pdf
+A,18,Phase-modulation based dual-function radar-communications.pdf
+A,19,Radar communications via random sequence encoding.pdf
+A,2,A Modified Waveform Design for Radar-Communication Integration Based on LFM-CPM.pdf
+A,20,Dual-Function Radar-Communications Information Embedding Using Sidelobe Control and Waveform Diversity.pdf
+A,21,Joint radar-communications resource management.pdf
+A,22,Radar-Communications Convergence Coexistence- Cooperation- and Co-Design.pdf
+A,23,Simultaneous radar detection and communications performance with clutter mitigation.pdf
+A,24,A dual function radar-communications system using sidelobe control and waveform diversity.pdf
+A,25,A dual-function MIMO radar-communications system using PSK modulation.pdf
+A,26,A vehicle-to-vehicle communication and ranging system based on spread spectrum technique-SS communication radar.pdf
+A,3,Communication analysis of integrated waveform based on LFM and MSK.pdf
+A,4,Spectrum extension research of Radar-communication integrated waveform.pdf
+A,5,A novel integrated radar and communication waveform based on LFM signal.pdf
+A,6,A novel jamming method against LFM radar using pseudo-random code phase modulation.pdf
+A,7,A novel approach for embedding communication symbols into physical radar waveforms.pdf
+A,8,Radar communications via random sequence encoding.pdf
+A,9,Design of signal-sharing for radar and communication.pdf
+B,1,Waveform design for high speed radar-communication integration.pdf
+B,2,Integrated Radar and Communication Based on Multicarrier Frequency Modulation Chirp Signal.pdf
+C,1,Constant envelope chirped OFDM for power-efficient radar communication.pdf
+C,10,CMA technique A solution for minimum PAPR in OFDM.pdf
+C,11,WHT and Double WHT An effective PAPR reduction approach in OFDM.pdf
+C,12,The combined scheme of selective mapping and clipping for PAPR reduction of OFDM.pdf
+C,13,Symbol Alphabet Modifier for PAPR reduction in OFDM communications.pdf
+C,14,Scaled offset PSO based PTS for PAPR reduction in OFDM systems.pdf
+C,15,Reduction of the nonlinearities by decreasing Peak to Average Power Ratio -PAPR- for Coherent Optical OFDM-WDM system using Exponential Compading.pdf
+C,16,Reconfigurable Complex Filtering Methods for PAPR Reduction of OFDM Signals with Low Computational Complexity.pdf
+C,17,Combination sine PS method for PAPR reduction in OFDM systems.pdf
+C,18,Complete characterization of the solvability of PAPR reduction for OFDM by tone reservation.pdf
+C,19,Enhanced Phase Realignment Techniques for the PAPR Reduction in OFDM Systems.pdf
+C,2,A survey on OFDM PAPR reduction techniques for 60 GHz wireless CMOS radio.pdf
+C,20,Pulse shaping approach to PAPR reduction for multiuser OFDM systems.pdf
+C,21,Estimation of detected ML in Tone Reservation and evaluate of Iterative Flicking PTS- SLM based Riemann matrix for reducing PAPR in OFDM.pdf
+C,22,Hadamard based SLM using genetic algorithm fo PAPR reduction in OFDM systems.pdf
+C,23,Iterative-Grouping and image PTS for PAPR reduction in OFDM system.pdf
+C,24,Joint interleaving and selected mapping technique with LCT for PAPR reduction in OFDM signals.pdf
+C,25,New companding transform for PAPR reduction in OFDM.pdf
+C,26,New PTS Schemes for PAPR Reduction of OFDM Signals Without Side Information.pdf
+C,27,OFDM PAPR Reduction Based on Nonlinear Functions without BER Degradation and Out-of-Band Emission.pdf
+C,28,OFDM PAPR reduction by convex optimization A power amplifier point-of-view.pdf
+C,29,On Companding Schemes for PAPR Reduction in OFDM Systems Employing Higher Order QAM.pdf
+C,3,A Union Algorithm of PAPR Reduction for OFDM Systems.pdf
+C,30,Implementation of chicken swarm optimization -CSO- with partial transmit sequences for the reduction of PAPR in OFDM system.pdf
+C,31,PAPR analyses for broadband OFDM transmitter with digital IF architecture.pdf
+C,32,PAPR Reduction for Hybrid ACO-OFDM Aided IM-DD Optical Wireless Vehicular Communications.pdf
+C,33,PAPR reduction in OFDM using Goppa codes.pdf
+C,34,PAPR reduction in optical OFDM with grouped LEDs.pdf
+C,35,PAPR reduction in SLM-OFDM using Lehmer random number generator.pdf
+C,36,PAPR Reduction Of FrFT-Based MB-OFDM Ultra Wide Band Signals.pdf
+C,37,Performance analysis of GA-PTS for PAPR reduction in OFDM system.pdf
+C,38,Performance enhancement of OFDM system by reducing PAPR using DFT spreading technique.pdf
+C,39,Pilot assignment for PTS-OFDM with channel estimation for PAPR reduction.pdf
+C,4,APPR combined PTS technique for reduction of PAPR in OFDM systems.pdf
+C,40,Precoding for joint spectral sidelobes suppression and PAPR reduction in OFDM system.pdf
+C,41,Prediction and PAPR reduction in precoded MIMO-OFDM.pdf
+C,42,PTS-clipping method to reduce the PAPR in ROF-OFDM system.pdf
+C,43,Receiver-Based Recovery of Clipped OFDM Signals for PAPR Reduction A Bayesian Approach.pdf
+C,44,A novel low complexity high efficiency hybrid PAPR reduction for OFDM systems.pdf
+C,45,A Novel PAPR Reduction Scheme for OFDM System based on Deep Learning.pdf
+C,46,A novel OFDM PAPR reduction scheme using selected mapping without explicit side information.pdf
+C,47,A PAPR Reduction Anaysis of Various Techniques in OFDM System.pdf
+C,48,A weighted OFDM scheme with Hadamard transform and windowing techniques for PAPR reduction.pdf
+C,49,An enhanced TKM-TR method for PAPR reduction of OFDM signals with peak regrowth and peak residual reduced.pdf
+C,5,Analysis of quantization metrics for PAPR evaluation in OFDM systems.pdf
+C,50,A low-complexity modified SLM with new phase sequences for PAPR reduction in OFDM system.pdf
+C,51,A Low Complexity PAPR Reduction Method Based on FWFT and PEC for OFDM Systems.pdf
+C,52,A new Approach to Iterative Clipping and Filtering PAPR Reduction Scheme for OFDM Systems.pdf
+C,53,A Quick Convergence Active Constellation Extension Projection onto Convex Sets Algorithm for Reducing the PAPR of OFDM System.pdf
+C,54,A hybrid companding transform technique for PAPR reduction of OFDM signals.pdf
+C,55,A Precoding-based PAPR Reduction Technique for UF-OFDM and Filtered-OFDM Modulations in 5G Systems.pdf
+C,56,A Figure-of-Merit for Evaluating the Overall Performance of OFDM PAPR Reduction Techniques in the Presence of High Power Amplifier.pdf
+C,57,A Cooperative Additional Hybrid and Clipping technique for PAPR reduction in OFDM System.pdf
+C,58,A combined PTS-companding scheme for PAPR reduction in OFDM system.pdf
+C,6,Low-PAPR OFDM-based waveform for fifth-generation cellular communications.pdf
+C,7,Low-PAPR Asymmetrically Clipped Optical OFDM for Intensity-Modulation-Direct-Detection Systems.pdf
+C,8,Low-Complexity PAPR Reduction Technique for OFDM Systems Using Biased Subcarriers.pdf
+C,9,Joint Time-Frequency Alignment for PAPR and OOBE Suppression of OFDM-Based Waveforms.pdf
+D,1,Spectrum sharing in radar and wireless communication systems A review.pdf
+D,2,Radar-communication integration An overview.pdf
+D,3,Waveform Design and Signal Processing Aspects for Fusion of Wireless Communications and Radar Sensing.pdf
+D,4,Signaling strategies for dual-function radar communications an overview.pdf
+E,1,Analysis and implementation of minimum shift keying -MSK- modulation on FPGA platform.pdf
+E,2,BER Analysis of a Hybrid Modulation Scheme Based on PPM and MSK Subcarrier Intensity Modulation.pdf
+E,3,Joint Estimation of Timing and Carrier Phase Offsets for MSK Signals in Alpha-Stable Noise.pdf
+E,4,Simulation and performance study of MSK system based on single frequency tracker.pdf
+E,5,The BER performance comparison of MSK and GMSK schemes for short-range visible light communication.pdf
+F,1,Fractional fourier based waveform for a joint radar-communication system.pdf
+F,2,Fractional Fourier Transform Based Co-Radar Waveform Experimental Validation.pdf
+G,1,OFDM雷达通信一体化信号设计与峰均比降低技术研究_张春蕾.pdf
+G,2,雷达通信一体化共享信号技术研究_杨瑞娟.pdf
